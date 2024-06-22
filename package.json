@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "os": "^0.1.2",
     "prompt-sync": "^4.2.0"
   }
 }
